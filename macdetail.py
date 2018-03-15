@@ -1,8 +1,6 @@
 #!/usr/bin/python
 import requests
 
-#macaddress = "FC-A1-3E-2A-1C-33"
-
 def getMacVendor(mac):
     """Returns the name of the MAC address vendor."""
     r = requests.get("http://api.macvendors.com/%s" %mac)
