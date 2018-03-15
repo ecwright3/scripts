@@ -6,3 +6,5 @@ http://3taps.com/developers-overview.php
 https://www.fullcontact.com/developer/pricing/
 
 https://github.com/toddmotto/public-apis#data-validation
+
+https://developer.shodan.io/api
