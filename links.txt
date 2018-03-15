@@ -8,3 +8,4 @@ https://www.fullcontact.com/developer/pricing/
 https://github.com/toddmotto/public-apis#data-validation
 
 https://developer.shodan.io/api
+https://shodan.readthedocs.io/en/latest/
